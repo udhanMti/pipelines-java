@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/udhan/test-project-1/_apis/build/status/udhanMti.pipelines-java?branchName=master)](https://dev.azure.com/udhan/test-project-1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
